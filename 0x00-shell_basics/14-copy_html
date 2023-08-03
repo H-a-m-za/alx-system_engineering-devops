@@ -1,5 +1,2 @@
 #!/bin/bash
-#!/bin/bash
-
-# Copys from current directory to parent directory
 cp ./*.html ..
