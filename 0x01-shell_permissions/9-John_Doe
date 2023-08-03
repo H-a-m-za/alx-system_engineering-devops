@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 752 hello ; ls -l hello
+chmod --version 752 hello
